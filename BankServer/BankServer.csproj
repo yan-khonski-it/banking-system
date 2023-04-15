@@ -16,6 +16,5 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\AccountTransfer.Grains\AccountTransfer.Grains.csproj" />
-		<ProjectReference Include="..\AccountTransfer.Interfaces\AccountTransfer.Interfaces.csproj" />
 	</ItemGroup>
 </Project>

@@ -8,7 +8,7 @@ namespace AccountTransfer.Grains;
 public record class Balance
 {
     [Id(0)]
-    public int Value { get; set; } = 0;
+    public int Value { get; set; } = 10000;
 }
 
 [Reentrant]
